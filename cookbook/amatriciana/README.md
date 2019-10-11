@@ -1,7 +1,5 @@
 # Bucatini all'Amatriciana
 
-![Amatriciana](images/bucatini-amatriciana.jpg)
-
 ## INGREDIENTS
 
 * 2 Tbsp. extra-virgin olive oil
@@ -14,6 +12,8 @@
 * Kosher salt
 * 12 oz. dried bucatini or spaghetti
 * 1/4 cup finely grated Pecorino (about 1 oz.)
+
+![Amatriciana](images/bucatini-amatriciana.jpg)
 
 ## RECIPE PREPARATION
 
