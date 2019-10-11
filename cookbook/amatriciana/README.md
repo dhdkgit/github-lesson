@@ -13,7 +13,7 @@
 * 12 oz. dried bucatini or spaghetti
 * 1/4 cup finely grated Pecorino (about 1 oz.)
 
-![Amatriciana](images/bucatini-amatriciana.jpg)
+![Amatriciana](https://docs.google.com/document/d/1HeuVC_jmxSRlFmBBh9KImPohmd6pYDqOl7-k6bRaUfs/edit?usp=sharing)
 
 ## RECIPE PREPARATION
 
